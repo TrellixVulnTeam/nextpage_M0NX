@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: ¿Quién soy?
     content: >-
-       soy  Rubio Martín, alumno del Gonzalo Nazareno en el curso de 2º de ASIR. Este blog nace 
+      b soy  Rubio Martín, alumno del Gonzalo Nazareno en el curso de 2º de ASIR. Este blog nace 
       como la primera práctica de la asignatura Implantación de Aplicaciones Web.
       Espero que la información que encuentres aquí te resulte útil. Un saludo.
     actions:

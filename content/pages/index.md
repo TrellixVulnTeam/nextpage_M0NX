@@ -17,7 +17,7 @@ sections:
       Espero que la información que encuentres aquí te resulte útil. Un saludo.
     actions:
       - label: Contact Me
-        url: https://fp.josedomingo.org/iaw2122/u01/estatica.html
+        url: 
         style: button
   - section_id: recent-posts
     type: section_posts
